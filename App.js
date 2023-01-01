@@ -139,7 +139,7 @@ export default function App() {
               />
             ),
           }}
-          name="Meet the Developer"
+          name="Developer"
           component={Meet}
         />
       </Drawer.Navigator>
