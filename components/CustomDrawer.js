@@ -16,7 +16,7 @@ const CustomDrawer = (props) => {
       </View>
       <DrawerItemList {...props} />
       <Text style={{padding: 10, fontSize: 14,color: "#000"}}>
-        Version: 1.0.1
+        Version: 1.1.0
       </Text>
     </DrawerContentScrollView>
   );
